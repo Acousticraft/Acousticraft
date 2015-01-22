@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "acousticraft",
+  "name": "Acousticraft",
+  "description": "Sound related magic mod.",
+  "version": "ALPHA 1.7.10 - 1.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Gammelkebab", "Stickhead"],
+  "credits": "All the stroopwafels.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
